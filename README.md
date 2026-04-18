@@ -1,26 +1,33 @@
-# Hi there! 👋 I'm M4giic
+# Hi, I'm M4giic 👋
 
-## Software Developer | Cloud-Oriented Backend Specialist | Future Cloud Architect
+Software Developer and Lead Developer with a focus on cloud-oriented backend development using .NET. I come from an embedded systems background and I'm working toward Cloud Architecture — which gives me a feel for the full stack, from low-level systems all the way up.
 
-I'm passionate about building robust, scalable solutions at the intersection of software and system engineering. My expertise lies in **cloud-oriented backend development** using **.NET**, with a strong foundation in embedded systems and a clear trajectory toward **Cloud Architecture**.
+As a Lead Developer I take ownership of project design and architecture, coordinate delivery, and make sure things actually ship.
 
-### 💻 Tech Stack
+## Tech Stack
 
-**Primary:** C#  
-**Secondary:** TypeScript, Go, Python
+**Primary:** C# with .net, Backend
+**Also use:** TypeScript with next-js, Go, Python, Frontend
 
-### 🎯 Current Focus
+## What I'm building
 
-- Cloud-oriented backend development with .NET
-- Exploring Go, TypeScript, and Python to expand my architectural perspective
-- Continuous learning and staying ahead of industry trends
+I work on personal projects for two reasons — either because I need them, or because I want to learn something new.
 
-### 🚀 What Drives Me
+- **[finansr](https://github.com/M4giic/finansr)** — personal finance tracker I actually use
+- **[strona weselna](https://github.com/M4giic/strona-weselna)** — a wedding site built for a real occasion
+- **[interpreter in Go](https://github.com/M4giic/interpreter-in-go)** — working through writing an interpreter to get deeper into Go and language design
 
-- Building elegant, unified solutions that seamlessly integrate individual components
-- Efficiency through smart systems and continuous improvement
-- Sharing knowledge and leading initiatives that multiply value
-- Taking on meaningful challenges that push technical boundaries
+## What I'm exploring
+
+I like picking up new technologies to understand how they work, not just how to use them. Lately I've been diving into Go, playing around with AI tooling, and thinking about how different pieces of a system fit together at a higher level.
+
+## Teaching & sharing
+
+I work as a tutor and enjoy the process of breaking down complex topics for others. Explaining things well forces you to actually understand them — it's one of the better ways to learn.
+
+## Background
+
+My foundation is in embedded software, which means I've spent time thinking about constraints, efficiency, and how hardware and software interact. That perspective still shapes how I approach problems today.
 
 ---
 
