@@ -7,6 +7,7 @@ As a Lead Developer I take ownership of project design and architecture, coordin
 ## Tech Stack
 
 **Primary:** C# with .net, Backend
+
 **Also use:** TypeScript with next-js, Go, Python, Frontend
 
 ## What I'm building
