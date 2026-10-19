@@ -1,6 +1,6 @@
 # Hi, I'm M4giic 👋
 
-Software Developer and Lead Developer with a focus on cloud-oriented backend development using .NET. I come from an embedded systems background and I'm working toward Cloud Architecture — which gives me a feel for the full stack, from low-level systems all the way up.
+Software Developer and Lead Developer with a focus on cloud-oriented backend development using .NET. I come from an embedded systems background and I'm working toward Cloud Architect — which gives me a feel for the full stack, from low-level systems all the way up.
 
 As a Lead Developer I take ownership of project design and architecture, coordinate delivery, and make sure things actually ship.
 
